@@ -17,7 +17,7 @@ function Header() {
 
                 <nav class="nav-menu">
                     <ul>
-                        <li><a href="#hero"><i class="bx bx-home"></i> <span>Home</span></a></li>
+                        <li class='active'><a href="#hero"><i class="bx bx-home"></i> <span>Home</span></a></li>
                         <li><a href="#about"><i class="bx bx-user"></i> <span>About</span></a></li>
                         <li><a href="#skills"><i class="bx bx-book"></i> <span>Skills</span></a></li>
                         <li><a href="#portfolio"><i class="bx bx-book-content"></i>Projects</a></li>

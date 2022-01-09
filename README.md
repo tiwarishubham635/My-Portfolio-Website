@@ -1,6 +1,6 @@
 <h2 align="center">
   My Portfolio Website<br/>
-  <a href="https://tiwarishubham635.github.io/My-Portfolio-Website/" target="_blank">tiwarishubham635.github.io/My-Portfolio-Website/</a>
+  <a href="https://tiwarishubham635.github.io/My-Portfolio-Website/" target="_blank">My-Portfolio-Website</a>
 </h2>
 <div align="center">
   <img alt="Demo" src="./Landing.jpg" />

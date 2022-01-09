@@ -1,6 +1,6 @@
 <h2 align="center">
   My Portfolio Website<br/>
-  <a href="http://soumya-jit.tech/" target="_blank">soumyajit.tech</a>
+  <a href="http://soumya-jit.tech/" target="_blank">Waiting</a>
 </h2>
 <div align="center">
   <img alt="Demo" src="./Landing.jpg" />

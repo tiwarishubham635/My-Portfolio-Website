@@ -1,5 +1,6 @@
 # My Portfolio Website
-<a href="https://tiwarishubham635.github.io/My-Portfolio-Website/" target="_blank">Deployed Link</a>
+## Deployed Link
+https://tiwarishubham635.github.io/My-Portfolio-Website/
 <div align="center">
   <img alt="Demo" src="./Landing.jpg" />
 </div>

@@ -1,7 +1,5 @@
-<h2 align="center">
-  My Portfolio Website<br/>
-  <a href="https://tiwarishubham635.github.io/My-Portfolio-Website/" target="_blank">Deployed Link</a>
-</h2>
+# My Portfolio Website
+<a href="https://tiwarishubham635.github.io/My-Portfolio-Website/" target="_blank">Deployed Link</a>
 <div align="center">
   <img alt="Demo" src="./Landing.jpg" />
 </div>

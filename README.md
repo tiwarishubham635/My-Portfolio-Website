@@ -13,8 +13,6 @@
 [![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com) &nbsp;
 
 </center>
-# My Portfolio Website                                                     
-This is my responsive portfolio website.
 
  ## Components                           
  It is a portfolio website consisting of the following sections:

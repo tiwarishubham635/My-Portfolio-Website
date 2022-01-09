@@ -15,44 +15,44 @@ function Skill() {
           <div class="col-lg-6" data-aos="fade-up">
 
             <div class="progress">
-              <span class="skill">C/C++ <i class="val">90%</i></span>
+              <span class="skill">C/C++ <i class="val" >Proficient</i></span>
               <div class="progress-bar-wrap">
-                <div class="progress-bar" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100" style={{width:"90%"}}></div>
+                <div class="progress-bar" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100" style={{width:"90%", }}></div>
               </div>
             </div>
 
             <div class="progress">
-              <span class="skill">HTML <i class="val">90%</i></span>
+              <span class="skill">HTML <i class="val" >Proficient</i></span>
               <div class="progress-bar-wrap">
-                <div class="progress-bar" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100" style={{width:"90%"}}></div>
+                <div class="progress-bar" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100" style={{width:"90%", }}></div>
               </div>
             </div>
 
             <div class="progress">
-              <span class="skill">JavaScript <i class="val">90%</i></span>
+              <span class="skill">JavaScript <i class="val" >Proficient</i></span>
               <div class="progress-bar-wrap">
-                <div class="progress-bar" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100" style={{width:"90%"}}></div>
+                <div class="progress-bar" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100" style={{width:"90%", }}></div>
               </div>
             </div>
 
             <div class="progress">
-              <span class="skill">CSS <i class="val">80%</i></span>
+              <span class="skill">CSS<i class="val" >Intermediate</i></span>
               <div class="progress-bar-wrap">
-                <div class="progress-bar" role="progressbar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100" style={{width:"80%"}}></div>
+                <div class="progress-bar" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style={{width:"60%", }}></div>
               </div>
             </div>
 
             <div class="progress">
-              <span class="skill">React.js <i class="val">80%</i></span>
+              <span class="skill">React.js<i class="val" >Intermediate</i></span>
               <div class="progress-bar-wrap">
-                <div class="progress-bar" role="progressbar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100" style={{width:"80%"}}></div>
+                <div class="progress-bar" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style={{width:"60%", }}></div>
               </div>
             </div>
 
             <div class="progress">
-              <span class="skill">Node.js <i class="val">70%</i></span>
+              <span class="skill">Node.js <i class="val" >Beginner</i></span>
               <div class="progress-bar-wrap">
-                <div class="progress-bar" role="progressbar" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100" style={{width:"70%"}}></div>
+                <div class="progress-bar" role="progressbar" aria-valuenow="30" aria-valuemin="0" aria-valuemax="100" style={{width:"30%", }}></div>
               </div>
             </div>
 
@@ -61,45 +61,45 @@ function Skill() {
           <div class="col-lg-6" data-aos="fade-up" data-aos-delay="100">
 
           <div class="progress">
-              <span class="skill">Python <i class="val">90%</i></span>
+              <span class="skill">Python<i class="val" >Proficient</i></span>
               <div class="progress-bar-wrap">
-                <div class="progress-bar" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100" style={{width:"90%"}}></div>
+                <div class="progress-bar" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100" style={{width:"90%", }}></div>
               </div>
             </div>
 
             <div class="progress">
-              <span class="skill">Numpy <i class="val">90%</i></span>
+              <span class="skill">Numpy<i class="val" >Proficient</i></span>
               <div class="progress-bar-wrap">
-                <div class="progress-bar" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100" style={{width:"90%"}}></div>
+                <div class="progress-bar" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100" style={{width:"90%", }}></div>
               </div>
             </div>
 
             <div class="progress">
-              <span class="skill">Pandas <i class="val">90%</i></span>
+              <span class="skill">Pandas<i class="val" >Proficient</i></span>
               <div class="progress-bar-wrap">
-                <div class="progress-bar" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100" style={{width:"90%"}}></div>
+                <div class="progress-bar" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100" style={{width:"90%", }}></div>
               </div>
             </div>
 
             <div class="progress">
-              <span class="skill">Matplotlib <i class="val">80%</i></span>
+              <span class="skill">Matplotlib<i class="val" >Intermediate</i></span>
               <div class="progress-bar-wrap">
-                <div class="progress-bar" role="progressbar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100" style={{width:"80%"}}></div>
+                <div class="progress-bar" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style={{width:"60%", }}></div>
               </div>
             </div>
 
             <div class="progress">
-              <span class="skill">Scikit-Learn <i class="val">80%</i></span>
+              <span class="skill">Scikit-Learn<i class="val" >Intermediate</i></span>
               <div class="progress-bar-wrap">
-                <div class="progress-bar" role="progressbar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100" style={{width:"80%"}}></div>
+                <div class="progress-bar" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style={{width:"60%", }}></div>
               </div>
             </div>
 
 
             <div class="progress">
-              <span class="skill">Firebase <i class="val">70%</i></span>
+              <span class="skill">Firebase<i class="val" >Beginner</i></span>
               <div class="progress-bar-wrap">
-                <div class="progress-bar" role="progressbar" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100" style={{width:"70%"}}></div>
+                <div class="progress-bar" role="progressbar" aria-valuenow="30" aria-valuemin="0" aria-valuemax="100" style={{width:"30%", }}></div>
               </div>
             </div>
 

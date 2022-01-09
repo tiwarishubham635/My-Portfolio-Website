@@ -18,7 +18,7 @@ function Contact() {
                     <div class="address">
                         <i class="icofont-google-map"></i>
                         <h4>Location:</h4>
-                        <p>WZ-344/B Ground Floor, Naraina Village, New Delhi</p>
+                        <p>New Delhi, India</p>
                     </div>
 
                     <div class="email">
@@ -33,7 +33,10 @@ function Contact() {
                         <p>+91 8470823006</p>
                     </div>
 
-                    <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d14008.983517753515!2d77.138531!3d28.622392!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390d032e6c592a41%3A0x12d26d5c35779d84!2s344%2C%20Naraina%20Village%2C%20Naraina%2C%20New%20Delhi%2C%20Delhi%20110028!5e0!3m2!1sen!2sin!4v1609524422894!5m2!1sen!2sin" frameborder="0" style={{border:"0", width: "100%", height: "290px"}} allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+                    {/* <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d14008.983517753515!2d77.138531!3d28.622392!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390d032e6c592a41%3A0x12d26d5c35779d84!2s344%2C%20Naraina%20Village%2C%20Naraina%2C%20New%20Delhi%2C%20Delhi%20110028!5e0!3m2!1sen!2sin!4v1609524422894!5m2!1sen!2sin" frameborder="0" style={{border:"0", width: "100%", height: "290px"}} allowfullscreen="" aria-hidden="false" tabindex="0"></iframe> */}
+
+                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3501.5339979105065!2d77.22080111416855!3d28.64372549032704!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390cfd3e911ea45f%3A0xe0cf33ccc2da2bbe!2sNew%20Delhi!5e0!3m2!1sen!2sin!4v1641733128348!5m2!1sen!2sin" frameborder="0" style={{border:"0", width: "100%", height: "290px"}} allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+
                     </div>
                 </div>
 

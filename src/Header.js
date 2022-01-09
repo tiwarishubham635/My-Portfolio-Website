@@ -11,7 +11,9 @@ function Header() {
                         <a href="mailto: tiwarishubham635@nsut.ac.in" target="_blank"   class="email"><i class="bx bxl-google"></i></a>
                         <a href="https://github.com/tiwarishubham635" target="_blank" class="github"><i class="bx bxl-github"></i></a>
                         <a href="https://www.linkedin.com/in/tiwarishubham635/"  target="_blank" class="linkedin" ><i class="bx bxl-linkedin"></i></a>
-                        <a href="https://api.whatsapp.com/send?phone=+91 8470823006" target="_blank" class="whatsapp"><i class="bx bxl-whatsapp"></i></a>
+                        <a href="https://twitter.com/tiwarishubham63?t=0F7eGT4anqayfbBXnWmOow&s=08"  target="_blank" class="twitter" ><i class="bx bxl-twitter"></i></a>
+
+                        {/* <a href="https://api.whatsapp.com/send?phone=+91 8470823006" target="_blank" class="whatsapp"><i class="bx bxl-whatsapp"></i></a> */}
                     </div>
             </div>
 
